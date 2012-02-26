@@ -20,8 +20,8 @@ function so;
 close all;
 
 % Read in images
-im1 = imread('A.png');
-im2 = imread('B.png');
+im1 = imread('images/A.png');
+im2 = imread('images/B.png');
 
 [grad1, f1, d1] = m_getFeatures(im1);
 [grad2, f2, d2] = m_getFeatures(im2);

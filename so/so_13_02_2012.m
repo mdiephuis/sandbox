@@ -20,8 +20,8 @@ function so_13_02_2012;
 close all;
 
 % Read in images
-im1 = imread('ruaa_1.png');
-im2 = imread('ruaa_2.png');
+im1 = imread('images/ruaa_1.png');
+im2 = imread('images/ruaa_2.png');
 
 	
 % VLFEAT sift point determination
