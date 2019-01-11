@@ -1,3 +1,12 @@
+# Maurits
+todo.org
+todo.txt
+test.py
+data/
+models/
+output/
+notebooks/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
